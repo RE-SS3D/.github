@@ -53,7 +53,7 @@
       Gmail
     </td>
     <td align="center">
-      Discord
+      Discordsdfsdfsdfsdfssf
     </td>
   </tr>
 </table>
