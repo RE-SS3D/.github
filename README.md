@@ -39,6 +39,25 @@
   </p>
 </div>
 
+<table>
+  <tr>
+    <td>
+      <a href="mailto:ress3d.project@gmail.com"><img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" /></a>
+    </td>
+    <td>
+      <a href="https://discord.gg/3ny9tdH"><img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="50" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      Gmail
+    </td>
+    <td align="left">
+      Discord
+    </td>
+  </tr>
+</table>
+
 </details>
 
 <!-- This page can be automated to update after a given period to include -->
