@@ -39,7 +39,7 @@
   </p>
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="mailto:ress3d.project@gmail.com"><img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" /></a>
@@ -49,10 +49,10 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       Gmail
     </td>
-    <td align="left">
+    <td align="center">
       Discord
     </td>
   </tr>
