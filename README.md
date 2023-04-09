@@ -4,8 +4,8 @@
 </h3>
 
 <details>
-  <a  align="center"><summary>About</summary>
-  
+  <summary align="center">About</summary>
+<a  align="center">  
 content
 </a>
 </details>
