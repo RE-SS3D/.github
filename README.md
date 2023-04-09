@@ -16,20 +16,16 @@
   <p align="center">
     <a href="mailto:ress3d.project@gmail.com">
       <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
-    </a>
-    &nbsp;
+    </a>&#160;
     <a href="https://discord.gg/3ny9tdH">
       <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="50" />
-    </a>
-    &nbsp;
+    </a>&nbsp;
     <a href="https://www.reddit.com/r/RESS3D/">
       <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
-    </a>
-    &nbsp;
+    </a>&nbsp;
     <a href="https://www.reddit.com/r/RESS3D/">
       <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
-    </a>
-    &nbsp;
+    </a>&nbsp;
     <a href="https://www.youtube.com/@spacestation3d">
       <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="50" />
     </a>
