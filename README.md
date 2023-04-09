@@ -4,7 +4,7 @@
 </h3>
 
 <details>
-  <h1><summary  align="center">About</summary></h1>
+  <summary  align="center"><h1>About</h1></summary>
 <p  align="center">
 content
 </p>
