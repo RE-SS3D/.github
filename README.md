@@ -17,7 +17,7 @@ Space Station 3D is a 3D remake of the classic "Space Station 13".
 
 <p  align="center">
   <a href="https://github.com/RE-SS3D/SS3D/discussions/1169">
-    <img src="profile/images/Writer.png" alt="guestbook" height="250">
+    <img src="profile/images/Writer.png" alt="guestbook" height="200">
   </a>
 </p>
 
