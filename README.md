@@ -16,7 +16,7 @@
   <p align="center">
     <a href="mailto:ress3d.project@gmail.com">
       <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
-    </a>&#160;
+    </a>&nbsp;&nbsp;
     <a href="https://discord.gg/3ny9tdH">
       <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="50" />
     </a>&nbsp;
