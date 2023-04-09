@@ -11,9 +11,11 @@
 <details>
   <summary  align="center"><h2>Contact</h2></summary>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="25" />&nbsp;
-  <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="25" />&nbsp;
-  <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="25" />
+  <a href="ress3d.project@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
+  </a>&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
 </p>
 </details>
 
