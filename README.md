@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:ress3d.project@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
-  </a>Gmail&nbsp;
+  </a><br>Gmail&nbsp;
   <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />&nbsp;
   <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
 </p>
