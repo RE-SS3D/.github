@@ -1,23 +1,21 @@
-### Gmail
+## CONTACT
 
-ress3d.project@gmail.com
+<b>Gmail</b> - [ress3d.project@gmail.com](mailto:ress3d.project@gmail.com)
 
-### Discord
+<b>Discord</b> - https://discord.gg/3ny9tdH
 
-https://discord.gg/3ny9tdH
+<b>Twitter</b> - https://twitter.com/SpaceStation3D
 
-### Reddit
+## MEDIA
 
-https://www.reddit.com/r/RESS3D/
+<b>YouTube</b> - https://www.youtube.com/@spacestation3d
 
-### Twitter
+<b>Reddit</b> - https://www.reddit.com/r/RESS3D/
 
-https://twitter.com/SpaceStation3D
+<b>TikTok</b> - [https://www.tiktok.com/@SpaceStation3D](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### YouTube
+## DONATE
 
-https://www.youtube.com/@spacestation3d
+<b>PayPal</b> - https://www.paypal.me/SpaceStation3D
 
-### TikTok
-
-[https://www.tiktok.com/@SpaceStation3D](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<b>Patreon</b> - https://www.patreon.com/ss3d

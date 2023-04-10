@@ -14,14 +14,17 @@
 <div align="center">
   <h3>Primary Repository:</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.<br>
+  <br>
   <h3>Secondary Repositories:</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D-Art">SS3D-Art</a></b> - The art repo; archives all art assets & their source files.<br>
   <b><a href="https://github.com/RE-SS3D/SS3D-CentCom">SS3D-CentCom</a></b> - The api repo; manages user authentication & characters.<br>
-  <b><a href="https://github.com/RE-SS3D/SS3D-Website">SS3D-Website</a></b> - The website repo; hosts our community website.
-  <br><br>
+  <b><a href="https://github.com/RE-SS3D/SS3D-Website">SS3D-Website</a></b> - The website repo; hosts our community website.<br>
+  <br>
   <h3>Other Repositories:</h3>
   <b><a href="https://github.com/RE-SS3D/.github">.github</a></b> - The public github org repo; stores our GitHub docs & profile readme (this page).
 </div>
+
+<br>
 
 </details>
 
