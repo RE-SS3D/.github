@@ -9,7 +9,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary><h2>GitHub Repositories</h2></summary>
+  <summary><h2 align="center">GitHub Repositories</h2></summary>
 
 <div align="center">
   <h3>Primary Repository:</h3>
