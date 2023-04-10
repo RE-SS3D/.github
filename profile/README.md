@@ -11,7 +11,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h1>GitHub Repositories</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
+  <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Info & Documentation</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/ToolboxNote.png" alt="toolbox" height="30"></summary>
+  <summary align="center"><h1>Info & Documents</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/ToolboxNote.png" alt="toolbox" height="30"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Social Media Profiles</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Toilet.png" alt="toilet" height="30"></summary>
+  <summary align="center"><h1>Social Media</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Toilet.png" alt="toilet" height="30"></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
