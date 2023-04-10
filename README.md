@@ -1,7 +1,7 @@
 <h3 align="center">
     <img src="profile/images/SS3DBanner7b.png" alt="SS3D">
-    Space Station 3D is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!
-    <a href="https://git.io/typing-svg">
+    <a href="https://ss3d.space/">Space Station 3D</a> is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!
+    <a href="https://ss3d.space/">
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=2500&pause=1000&color=B33225&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=75&lines=Welcome+to+the+station+crew.;Please+enjoy+your+stay!" alt="Welcome to the Station Crew..." />
     </a>
 </h3><hr>
@@ -9,7 +9,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary><h2>Repositories</h2></summary>
+  <summary><h2>GitHub Repositories</h2></summary>
 
 <div align="center">
   <h3>Primary Repository:</h3>
@@ -29,16 +29,38 @@
 </details>
 
 <details>
-  <summary><h2>Documentation</h2></summary>
+  <summary><h2>Info & Documentation</h2></summary>
 
-blah
+<div align="center">
+  <h3><a href="https://ss3d.space">Website</a></h3>
+  <b><a href="https://ss3d.space/devblog/">Devblogs</a></b> - Periodic development blogs.
+  <br>
+  <b><a href="https://ss3d.space/about/">About</a></b> - About SS3D and *beep.
+  <br>
+  <b><a href="https://ss3d.space/faq/">FAQ</a></b> - Frequently Asked Questions.
+  <br>
+  <b><a href="https://ss3d.space/contribute/">Contribute</a></b> - How to contribute to SS3D!
+  <br>
+  <b><a href="https://ss3d.space/art/">Art</a></b> - SS3D artwork made by our contributors!
+  <br>
+  <b><a href="https://ss3d.space/download/">Download</a></b> - Download our latest release!
+  <br><br>
+  <h3><a href="https://ss3d.gitbook.io">GitBook</a></h3>
+  <b><a href="https://ss3d.gitbook.io/design/">Design</a></b> - Document for game design and ideas.
+  <br>
+  <b><a href="https://ss3d.gitbook.io/art-guide/">Art Guide</a></b> - Documents for creating assets for SS3D.
+  <br>
+  <b><a href="https://ss3d.gitbook.io/dev-guide/">Dev Guide</a></b> - Documents for developing/maintaining SS3D.
+  <br>
+  <b><a href="https://ss3d.gitbook.io/systems/">Systems</a></b> - Documentation for the implementation of technical systems.
+</div>
 
 <br><hr>
 
 </details>
 
 <details>
-  <summary><h2>Social</h2></summary>
+  <summary><h2>Social Media Profiles</h2></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
@@ -131,8 +153,6 @@ blah
 <br><hr>
 
 </details>
-
-
 
 <!-- This page can be automated to update after a given period to include -->
 <!-- our most recent tweets, youtube videos, and/or github stats. -->
