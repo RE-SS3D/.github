@@ -24,7 +24,7 @@
   <b><a href="https://github.com/RE-SS3D/.github">.github</a></b> - The public github org repo; stores our GitHub docs & profile readme (this page).
 </div>
 
-<hr>
+<br><hr>
 
 </details>
 
@@ -33,7 +33,7 @@
 
 blah
 
-<hr>
+<br><hr>
 
 </details>
 
@@ -120,7 +120,7 @@ blah
   </tr>
 </table>
 
-<hr>
+<br><hr>
 
 </details>
 
