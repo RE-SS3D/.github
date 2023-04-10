@@ -11,7 +11,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h2>GitHub Repositories</h2><img src="images/ToolboxNote.png" alt="toolbox" height="30"></summary>
+  <summary align="center"><h2>GitHub Repositories</h2><img src="images/ToolboxNote.png" alt="toolbox" height="30" align="right"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
@@ -161,7 +161,7 @@
 
 <p align="center">
   <a href="https://github.com/RE-SS3D/SS3D/discussions/1169">
-    <img src="profile/images/guestbook.png" alt="guestbook" height="200" />
+    <img src="images/guestbook.png" alt="guestbook" height="200" />
   </a>
 </p>
 
