@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="profile/images/SS3DBanner7b.png" alt="SS3D">
+    <img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/SS3DBanner7b.png" alt="SS3D">
     <p>
       <a href="https://ss3d.space/">Space Station 3D</a> is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!
     </p>
@@ -11,7 +11,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h1>GitHub Repositories</h1>&nbsp;<img src="profile/images/Computer.png" alt="computer" height="30"></summary>
+  <summary align="center"><h1>GitHub Repositories</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Info & Documentation</h1>&nbsp;<img src="profile/images/ToolboxNote.png" alt="toolbox" height="30"></summary>
+  <summary align="center"><h1>Info & Documentation</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/ToolboxNote.png" alt="toolbox" height="30"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Social Media Profiles</h1>&nbsp;<img src="profile/images/Toilet.png" alt="toilet" height="30"></summary>
+  <summary align="center"><h1>Social Media Profiles</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Toilet.png" alt="toilet" height="30"></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
@@ -161,7 +161,7 @@
 
 <p align="center">
   <a href="https://github.com/RE-SS3D/SS3D/discussions/1169">
-    <img src="profile/images/guestbook.png" alt="guestbook" height="200" />
+    <img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/guestbook.png" alt="guestbook" height="200" />
   </a>
 </p>
 
