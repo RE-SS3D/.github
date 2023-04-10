@@ -11,7 +11,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h2>GitHub Repositories</h2>&nbsp;<img src="images/Computer.png" alt="computer" height="25"></summary>
+  <summary align="center"><h1>GitHub Repositories</h1>&nbsp;<img src="images/Computer.png" alt="computer" height="25"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
