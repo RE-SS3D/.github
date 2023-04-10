@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="profile/images/SS3DBanner7b.png" alt="SS3D">
+    <img src="images/SS3DBanner7b.png" alt="SS3D">
     <a href="https://ss3d.space/">Space Station 3D</a> is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!
     <a href="https://ss3d.space/">
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=2500&pause=1000&color=B33225&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=75&lines=Welcome+to+the+station+crew.;Please+enjoy+your+stay!" alt="Welcome to the Station Crew..." />
@@ -9,7 +9,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h2>GitHub Repositories</h2></summary>
+  <summary align="center"><h2>GitHub Repositories</h2><img src="images/ToolboxNote.png" alt="toolbox"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary align="center"><h2>Info & Documentation</h2></summary>
+  <summary align="center"><h2>Info & Documentation</h2><img src="images/ToolboxNoteR.png" alt="toolbox"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
