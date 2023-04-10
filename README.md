@@ -1,11 +1,10 @@
 <h3 align="center">
     <img src="profile/images/SS3DBanner7b.png" alt="SS3D">
-    <p>Space Station 3D is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!</p>
+    Space Station 3D is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red" alt="ss13"></a>!
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=2500&pause=1000&color=B33225&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=75&lines=Welcome+to+the+station+crew.;Please+enjoy+your+stay!" alt="Welcome to the Station Crew..." />
     </a>
-    <hr>
-</h3>
+</h3><hr>
 
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
