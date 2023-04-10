@@ -11,7 +11,7 @@
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
 <details>
-  <summary align="center"><h2>GitHub Repositories</h2><img src="images/ToolboxNote.png" alt="toolbox" height="30" align="right"></summary>
+  <summary align="center"><h2>GitHub Repositories </h2><img src="images/Computer.png" alt="computer" height="25"></summary>
 
 <div align="center">
   <h3>Primary Repository</h3>
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary align="center"><h2>Info & Documentation</h2><img src="images/ToolboxNoteR.png" alt="toolbox" height="30"></summary>
+  <summary align="center"><h2>Info & Documentation </h2><img src="images/ToolboxNote.png" alt="toolbox" height="25"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary align="center"><h2>Social Media Profiles</h2><img src="images/Toilet.png" alt="toilet" height="30"></summary>
+  <summary align="center"><h2>Social Media Profiles </h2><img src="images/Toilet.png" alt="toilet" height="25"></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
