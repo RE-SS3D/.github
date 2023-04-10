@@ -58,21 +58,6 @@ blah
         <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
       </a>
     </td>
-    <td>
-      <a href="https://twitter.com/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
-      </a>
-    </td>
-    <td>
-      <a href="hhttps://www.youtube.com/@spacestation3d">
-        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="50" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="50" />
-      </a>
-    </td>
   </tr>
   <tr align="center">
     <td>
@@ -84,11 +69,34 @@ blah
     <td>
       Reddit
     </td>
+  </tr>
+</table>
+
+<h3 align="center">Media</h3>
+<table align="center">
+  <tr align="center">
     <td>
-      Twitter
+      <a href="https://www.youtube.com/@spacestation3d">
+        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="50" />
+      </a>
     </td>
     <td>
+      <a href="https://twitter.com/SpaceStation3D">
+        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="50" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
       YouTube
+    </td>
+    <td>
+      Twitter
     </td>
     <td>
       TikTok
@@ -123,6 +131,8 @@ blah
 <br><hr>
 
 </details>
+
+
 
 <!-- This page can be automated to update after a given period to include -->
 <!-- our most recent tweets, youtube videos, and/or github stats. -->
