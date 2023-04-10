@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary align="center"><h2>Info & Documentation</h2>&nbsp;<img src="images/ToolboxNote.png" alt="toolbox" height="25"></summary>
+  <summary align="center"><h1>Info & Documentation</h1>&nbsp;<img src="images/ToolboxNote.png" alt="toolbox" height="30"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary align="center"><h2>Social Media Profiles</h2>&nbsp;<img src="images/Toilet.png" alt="toilet" height="25"></summary>
+  <summary align="center"><h1>Social Media Profiles</h1>&nbsp;<img src="images/Toilet.png" alt="toilet" height="30"></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
