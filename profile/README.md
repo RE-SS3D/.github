@@ -13,6 +13,10 @@
 <details>
   <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
+<p align="center">
+  <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
+</p>
+
 <div align="center">
   <h3>Primary Repository</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.<br>
