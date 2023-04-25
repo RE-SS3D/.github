@@ -17,7 +17,7 @@
   <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
 <p align="center">
-  Our repos and the teams that manage them.
+  Our repos and the teams that manage them.<br>
   <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
 </p>
 
@@ -25,7 +25,7 @@
   <h3>Primary Repository</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.
   <br>
-  @@RE-SS3D/centcom @RE-SS3D/game-maintainers @RE-SS3D/art-maintainers
+  @RE-SS3D/centcom @RE-SS3D/game-maintainers @RE-SS3D/art-maintainers
   <br>
   <h3>Secondary Repositories</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D-Art">SS3D-Art</a></b> - The art repo; archives all art assets & their source files.
