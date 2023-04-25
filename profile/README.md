@@ -10,6 +10,9 @@
 
 <!-- New typing images can be generated at: https://readme-typing-svg.demolab.com/demo/ -->
 
+<!-- This page can be automated to update after a given period to include -->
+<!-- our most recent tweets, youtube videos, and/or github stats. -->
+
 <details>
   <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
@@ -82,8 +85,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.reddit.com/r/RESS3D/">
-        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
+      <a href="https://twitter.com/SpaceStation3D">
+        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
       </a>
     </td>
   </tr>
@@ -95,7 +98,7 @@
       Discord
     </td>
     <td>
-      Reddit
+      Twitter
     </td>
   </tr>
 </table>
@@ -109,8 +112,8 @@
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
+      <a href="https://www.reddit.com/r/RESS3D/">
+        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
       </a>
     </td>
     <td>
@@ -124,7 +127,7 @@
       YouTube
     </td>
     <td>
-      Twitter
+      Reddit
     </td>
     <td>
       TikTok
@@ -159,9 +162,6 @@
 <br><hr>
 
 </details>
-
-<!-- This page can be automated to update after a given period to include -->
-<!-- our most recent tweets, youtube videos, and/or github stats. -->
 
 <p align="center">
   <a href="https://github.com/RE-SS3D/SS3D/discussions/1169">
