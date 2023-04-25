@@ -17,18 +17,23 @@
   <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
 
 <p align="center">
+  Our repos and the teams that manage them.
   <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
 </p>
 
 <div align="center">
   <h3>Primary Repository</h3>
-  <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.<br>
+  <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.
+  <br>
+  @@RE-SS3D/centcom @RE-SS3D/game-maintainers @RE-SS3D/art-maintainers
   <br>
   <h3>Secondary Repositories</h3>
-  <b><a href="https://github.com/RE-SS3D/SS3D-Art">SS3D-Art</a></b> - The art repo; archives all art assets & their source files.<br>
-  <b><a href="https://github.com/RE-SS3D/SS3D-CentCom">SS3D-CentCom</a></b> - The api repo; manages user authentication & characters.<br>
-  <b><a href="https://github.com/RE-SS3D/SS3D-Website">SS3D-Website</a></b> - The website repo; hosts our community website.<br>
+  <b><a href="https://github.com/RE-SS3D/SS3D-Art">SS3D-Art</a></b> - The art repo; archives all art assets & their source files.
   <br>
+  <b><a href="https://github.com/RE-SS3D/SS3D-CentCom">SS3D-CentCom</a></b> - The api repo; manages user authentication & characters.
+  <br>
+  <b><a href="https://github.com/RE-SS3D/SS3D-Website">SS3D-Website</a></b> - The website repo; hosts our community website.
+  <br><br>
   <h3>Other Repositories</h3>
   <b><a href="https://github.com/RE-SS3D/.github">.github</a></b> - The public github org repo; stores our GitHub docs & profile readme (this page).
 </div>
@@ -76,17 +81,17 @@
   <tr align="center">
     <td>
       <a href="mailto:ress3d.project@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="45" />
+        <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
       </a>
     </td>
     <td>
       <a href="https://discord.gg/3ny9tdH">
-        <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="45" />
+        <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="50" />
       </a>
     </td>
     <td>
       <a href="https://twitter.com/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="45" />
+        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
       </a>
     </td>
   </tr>
@@ -108,17 +113,17 @@
   <tr align="center">
     <td>
       <a href="https://www.youtube.com/@spacestation3d">
-        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="45" />
+        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="50" />
       </a>
     </td>
     <td>
       <a href="https://www.reddit.com/r/RESS3D/">
-        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="45" />
+        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="45" />
+        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="50" />
       </a>
     </td>
   </tr>
@@ -140,12 +145,12 @@
   <tr align="center">
     <td>
       <a href="https://www.paypal.me/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/paypal/#00457C" alt="paypal" height="45" />
+        <img src="https://cdn.simpleicons.org/paypal/#00457C" alt="paypal" height="50" />
       </a>
     </td>
     <td>
       <a href="https://www.patreon.com/ss3d">
-        <img src="https://cdn.simpleicons.org/patreon/#FF424D" alt="patreon" height="45" />
+        <img src="https://cdn.simpleicons.org/patreon/#FF424D" alt="patreon" height="50" />
       </a>
     </td>
   </tr>
