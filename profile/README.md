@@ -18,17 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
-  <br>
-  Our repos and the teams that manage them.
 </p>
 
 <div align="center">
   <h3>Primary Repository</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D">SS3D</a></b> - The game repo; is where gamers manifest their dreams.
-  <br>
-  (<a href="https://github.com/orgs/RE-SS3D/teams/centcom">@RE-SS3D/centcom</a>,
-  <a href="https://github.com/orgs/RE-SS3D/teams/game-maintainers">@RE-SS3D/game-maintainers</a>,
-  <a href="https://github.com/orgs/RE-SS3D/teams/art-maintainers">@RE-SS3D/art-maintainers</a>)
   <br>
   <h3>Secondary Repositories</h3>
   <b><a href="https://github.com/RE-SS3D/SS3D-Art">SS3D-Art</a></b> - The art repo; archives all art assets & their source files.
@@ -38,7 +32,7 @@
   <b><a href="https://github.com/RE-SS3D/SS3D-Website">SS3D-Website</a></b> - The website repo; hosts our community website.
   <br><br>
   <h3>Other Repositories</h3>
-  <b><a href="https://github.com/RE-SS3D/.github">.github</a></b> - The public github org repo; stores our GitHub docs & profile readme (this page).
+  <b><a href="https://github.com/RE-SS3D/.github">.github</a></b> - The github repo; stores our GitHub profile (this page) & documents.
 </div>
 
 <br><hr>
