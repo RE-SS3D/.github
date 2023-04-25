@@ -42,17 +42,17 @@
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
+  <b><a href="https://ss3d.space/download/">Download</a></b> - Download our latest release!
+  <br><br>
   <b><a href="https://ss3d.space/devblog/">Devblogs</a></b> - Periodic development blogs.
   <br>
   <b><a href="https://ss3d.space/about/">About</a></b> - About SS3D and *beep.
   <br>
   <b><a href="https://ss3d.space/faq/">FAQ</a></b> - Frequently Asked Questions.
   <br>
-  <b><a href="https://ss3d.space/contribute/">Contribute</a></b> - How to contribute to SS3D!
-  <br>
   <b><a href="https://ss3d.space/art/">Art</a></b> - SS3D artwork made by our contributors!
-  <br>
-  <b><a href="https://ss3d.space/download/">Download</a></b> - Download our latest release!
+  <br><br>
+  <b><a href="https://ss3d.space/contribute/">Contribute</a></b> - How to contribute to SS3D!
   <br><br>
   <h3><a href="https://ss3d.gitbook.io">GitBook</a></h3>
   <b><a href="https://ss3d.gitbook.io/design/">Design</a></b> - Document for game design and ideas.
@@ -76,17 +76,17 @@
   <tr align="center">
     <td>
       <a href="mailto:ress3d.project@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="50" />
+        <img src="https://cdn.simpleicons.org/gmail/#EA4335" alt="gmail" height="45" />
       </a>
     </td>
     <td>
       <a href="https://discord.gg/3ny9tdH">
-        <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="50" />
+        <img src="https://cdn.simpleicons.org/discord/#5865F2" alt="discord" height="45" />
       </a>
     </td>
     <td>
       <a href="https://twitter.com/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="50" />
+        <img src="https://cdn.simpleicons.org/twitter/#1DA1F2" alt="twitter" height="45" />
       </a>
     </td>
   </tr>
@@ -108,17 +108,17 @@
   <tr align="center">
     <td>
       <a href="https://www.youtube.com/@spacestation3d">
-        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="50" />
+        <img src="https://cdn.simpleicons.org/youtube/#FF0000" alt="youtube" height="45" />
       </a>
     </td>
     <td>
       <a href="https://www.reddit.com/r/RESS3D/">
-        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="50" />
+        <img src="https://cdn.simpleicons.org/reddit/#FF4500" alt="reddit" height="45" />
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="50" />
+        <img src="https://cdn.simpleicons.org/tiktok/#000000" alt="tiktok" height="45" />
       </a>
     </td>
   </tr>
@@ -140,12 +140,12 @@
   <tr align="center">
     <td>
       <a href="https://www.paypal.me/SpaceStation3D">
-        <img src="https://cdn.simpleicons.org/paypal/#00457C" alt="paypal" height="50" />
+        <img src="https://cdn.simpleicons.org/paypal/#00457C" alt="paypal" height="45" />
       </a>
     </td>
     <td>
       <a href="https://www.patreon.com/ss3d">
-        <img src="https://cdn.simpleicons.org/patreon/#FF424D" alt="patreon" height="50" />
+        <img src="https://cdn.simpleicons.org/patreon/#FF424D" alt="patreon" height="45" />
       </a>
     </td>
   </tr>
