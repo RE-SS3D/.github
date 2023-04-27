@@ -172,5 +172,5 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=RE-SS3D&left_color=grey&right_color=red" alt="visits">
+  <img src="https://komarev.com/ghpvc/?username=RE-SS3D&color=red&label=visits" alt="visits">
 </p>
