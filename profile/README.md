@@ -167,7 +167,7 @@
 
 <p align="center">
   <a href="https://github.com/RE-SS3D/SS3D/discussions/1169">
-    <img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/guestbook.png" alt="guestbook" height="200" />
+    <img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/GuestBook.png" alt="Guest Book" height="200" />
   </a>
 </p>
 
