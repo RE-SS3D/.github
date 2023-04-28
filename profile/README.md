@@ -14,7 +14,7 @@
 <!-- our most recent tweets, youtube videos, and/or github stats. -->
 
 <details>
-  <summary align="center"><h1>GitHub Repos&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Computer.png" style="vertical-align:top" height="30"></h1></summary>
+  <summary align="center"><h1>GitHub Repos&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Computer.png" style="vertical-align:middle" height="30"></h1></summary>
 
 <p align="center">
   <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Social Media&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Toilet.png" style="vertical-align:bottom" height="30"></h1></summary>
+  <summary align="center"><h1>Social Media&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Toilet.png" style="vertical-align:middle" height="30"></h1></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
