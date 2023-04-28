@@ -172,5 +172,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RE-SS3D&color=red&label=visits" alt="visits">
+  <img src="https://komarev.com/ghpvc/?username=RE-SS3D&color=red&label=Visits" alt="visits">
 </p>
