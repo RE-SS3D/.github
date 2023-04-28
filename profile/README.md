@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/SS3DBanner7b.png" alt="SS3D">
+    <img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Banners/BorderedBanners/SS3DBanner7b.png" alt="SS3D">
     <p>
       <a href="https://ss3d.space/">Space Station 3D</a> is a 3D revision of the classic <a href="https://spacestation13.com/"><img src="https://img.shields.io/badge/Space%20Station-13-red?style=flat-square" alt="ss13" align="center"></a>!
     </p>
@@ -14,7 +14,7 @@
 <!-- our most recent tweets, youtube videos, and/or github stats. -->
 
 <details>
-  <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Computer.png" alt="computer" height="30"></summary>
+  <summary align="center"><h1>GitHub Repos</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Computer.png" alt="computer" height="30"></summary>
 
 <p align="center">
   <a href="https://github.com/RE-SS3D"><img src="https://img.shields.io/github/stars/RE-SS3D?style=social"></a>
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Info & Documents</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/ToolboxNote.png" alt="toolbox" height="30"></summary>
+  <summary align="center"><h1>Info & Documents</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/ToolboxNote.png" alt="toolbox" height="30"></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Social Media</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/.github/main/profile/images/Toilet.png" alt="toilet" height="30"></summary>
+  <summary align="center"><h1>Social Media</h1>&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Toilet.png" alt="toilet" height="30"></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
