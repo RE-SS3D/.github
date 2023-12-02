@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Social Media&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Toilet.png" align="center" height="30"></h1></summary>
+  <summary align="center"><h1>Social Media&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/Toilet.png" height="30"></h1></summary>
 
 <h3 align="center">Contact</h3>
 <table align="center">
