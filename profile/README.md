@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary align="center"><h1>Info & Documents&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/ToolboxNote.png" style="vertical-align:bottom" height="30"></h1></summary>
+  <summary align="center"><h1>Info & Documents&nbsp;<img src="https://raw.githubusercontent.com/RE-SS3D/SS3D-Art/main/Artwork/Cutouts/Emojis/ToolboxNote.png" text-align="center" height="30"></h1></summary>
 
 <div align="center">
   <h3><a href="https://ss3d.space">Website</a></h3>
